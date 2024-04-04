@@ -1,0 +1,7 @@
+C:\Proyectos\AutomatizacionDirecTv\AutomatizacionDirecTv\AutomatizacionDirecTv\bin\Debug\AutomatizacionDirecTv.exe.config
+C:\Proyectos\AutomatizacionDirecTv\AutomatizacionDirecTv\AutomatizacionDirecTv\bin\Debug\AutomatizacionDirecTv.exe
+C:\Proyectos\AutomatizacionDirecTv\AutomatizacionDirecTv\AutomatizacionDirecTv\bin\Debug\AutomatizacionDirecTv.pdb
+C:\Proyectos\AutomatizacionDirecTv\AutomatizacionDirecTv\AutomatizacionDirecTv\obj\Debug\AutomatizacionDirecTv.csproj.CoreCompileInputs.cache
+C:\Proyectos\AutomatizacionDirecTv\AutomatizacionDirecTv\AutomatizacionDirecTv\obj\Debug\AutomatizacionDirecTv.exe
+C:\Proyectos\AutomatizacionDirecTv\AutomatizacionDirecTv\AutomatizacionDirecTv\obj\Debug\AutomatizacionDirecTv.pdb
+C:\Proyectos\AutomatizacionDirecTv\AutomatizacionDirecTv\AutomatizacionDirecTv\obj\Debug\AutomatizacionDirecTv.csproj.AssemblyReference.cache

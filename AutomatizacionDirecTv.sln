@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatizacionDirecTv", "AutomatizacionDirecTv\AutomatizacionDirecTv.csproj", "{2B5BEEF5-E865-4D4E-854F-74AD357D6FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5BEEF5-E865-4D4E-854F-74AD357D6FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5BEEF5-E865-4D4E-854F-74AD357D6FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5BEEF5-E865-4D4E-854F-74AD357D6FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5BEEF5-E865-4D4E-854F-74AD357D6FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D12A31F0-26C9-4994-8846-914C8EBD2229}
+	EndGlobalSection
+EndGlobal
